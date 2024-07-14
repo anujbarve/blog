@@ -1,0 +1,8 @@
+[submodule "anujbarveblog/anujbarve.github.io"]
+	path = anujbarveblog/anujbarve.github.io
+	url = https://github.com/anujbarve/anujbarve.github.io.git
+	branch = main
+[submodule "anujbarveblog/public"]
+	path = anujbarveblog/public
+	url = https://github.com/anujbarve/anujbarve.github.io.git
+	branch = main
